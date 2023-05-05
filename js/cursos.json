@@ -1,0 +1,114 @@
+{
+    "ciberseguridad": [
+        {
+            "id": 1,
+            "fotoCurso": "/images/fotosCursos/cibersguridad/s4vitar.webp",
+            "titulo": "Introduccion al hacking ético",
+            "autor": "Marcelo aka s4vitar",
+            "lecciones": "83 lecciones",
+            "horas": "8 horas"
+        },
+        {
+            "id": 2,
+            "fotoCurso": "/images/fotosCursos/cibersguridad/kike-gandia.webp",
+            "titulo": "Hacking y fortificación web",
+            "autor": "Kike Gandía",
+            "lecciones": "62 lecciones",
+            "horas": "7 horas"
+        },
+        {
+            "id": 3,
+            "fotoCurso": "/images/fotosCursos/cibersguridad/protegerse-en-red-kike-gandia.webp",
+            "titulo": "Cómo protegerse en la red",
+            "autor": "Kike Gandía",
+            "lecciones": "71 lecciones",
+            "horas": "8 horas"
+        },
+        {
+            "id": 4,
+            "fotoCurso": "/images/fotosCursos/cibersguridad/radiofrecuencia.webp",
+            "titulo": "Hacking de Radiofrecuencia",
+            "autor": "Marcelo aka s4vitar",
+            "lecciones": "37 lecciones",
+            "horas": "3 horas"
+        },
+        {
+            "id": 5,
+            "fotoCurso": "/images/fotosCursos/cibersguridad/redes-inalambricas.webp",
+            "titulo": "Hacking de Redes Inalámbricas (WIFI)",
+            "autor": "Marcelo aka s4vitar",
+            "lecciones": "69 lecciones",
+            "horas": "4 horas"
+        }
+    ],
+
+    "software": [
+        {
+            "id": 6,
+            "fotoCurso": "/images/fotosCursos/software/antonio-sarosi.webp",
+            "titulo": "Crea tu propio Framework Web con PHP",
+            "autor": "Antonio Sarosi",
+            "lecciones": "83 lecciones",
+            "horas": "16 horas"
+        },
+        {
+            "id": 7,
+            "fotoCurso": "/images/fotosCursos/software/brais-moure.webp",
+            "titulo": "¿Qué lenguaje de programación aprender?",
+            "autor": "Brais Moure",
+            "lecciones": "27 lecciones",
+            "horas": "1 horas"
+        },
+        {
+            "id": 8,
+            "fotoCurso": "/images/fotosCursos/software/git-antonio-sarosi.webp",
+            "titulo": "Git: De Noob a Pro",
+            "autor": "Antonio Sarosi",
+            "lecciones": "20 lecciones",
+            "horas": "18 horas"
+        },
+        {
+            "id": 9,
+            "fotoCurso": "/images/fotosCursos/software/nate-gentile.webp",
+            "titulo": "Aprende a programar con Pyhton",
+            "autor": "Nate Gentile",
+            "lecciones": "70 lecciones",
+            "horas": "12 horas"
+        },
+        {
+            "id": 10,
+            "fotoCurso": "/images/fotosCursos/software/laravel-sarosi.webp",
+            "titulo": "Aprende Laravel desde cero",
+            "autor": "Antonio Sarosi",
+            "lecciones": "53 lecciones",
+            "horas": "10 horas"
+        }
+    ],
+    "videojuegos": [
+        {
+            "id": 11,
+            "fotoCurso": "/images/fotosCursos/videojuegos/shooter-unity.webp",
+            "titulo": "Creando un Shooter Espacial con Unity y C#",
+            "autor": "Claudi Lázaro",
+            "lecciones": "12 lecciones",
+            "horas": "3 horas"
+        },
+        {
+            "id": 12,
+            "fotoCurso": "/images/fotosCursos/videojuegos/primer-videojuego.webp",
+            "titulo": "Creando mi primer videojuego",
+            "autor": "Claudi Lázaro",
+            "lecciones": "15 lecciones",
+            "horas": "6 horas"
+        },
+        {
+            "id": 13,
+            "fotoCurso": "/images/fotosCursos/videojuegos/primer-videojuego-first-person.webp",
+            "titulo": "Crea tu primer videojuego First Person Shooter",
+            "autor": "Claudi Lázaro",
+            "lecciones": "13 lecciones",
+            "horas": "5 horas"
+        }
+    ]
+
+}

@@ -1,0 +1,22 @@
+{
+    "empleados": [
+      {
+        "cod_empleado": 1,
+        "foto": "./images/empleado1.jpg",
+        "nombreyapellidos": "Aitor González",
+        "cargo": "CEO"
+      },
+      {
+        "cod_empleado": 2,
+        "foto": "./images/empleado2.jpg",
+        "nombreyapellidos": "Pablo García",
+        "cargo": "CTO"
+      },
+      {
+        "cod_empleado": 3,
+        "foto": "./images/empleado3.jpg",
+        "nombreyapellidos": "Sergio Jiménez",
+        "cargo": "ATENCIÓN AL CLIENTE"
+      }
+    ]
+}

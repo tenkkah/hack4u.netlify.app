@@ -1,0 +1,14 @@
+{
+    "conocenos": [
+      {
+        "cod_pregunta": 1,
+        "pregunta": "¿Qué es Hack4u?",
+        "respuesta": "Hack4u es una academia de ciberseguridad destinada al aprendizaje de la mano de expertos en el campo. En ella, te formamos para que adquieras las competencias necesarias de cara a afrontar cualquier certificación de seguridad ofensiva. Con el paso del tiempo, nos hemos dado cuenta de que existe una gran necesidad de ofrecer formación guiada para los que quieren iniciarse en este sector.  Este proyecto nace de la intención de formar unas bases sólidas para aquellos que deseen introducirse en este mundo, de forma que tanto los perfiles principiantes como los experimentados puedan empezar desde cero o aprender cosas nuevas."
+      },
+      {
+        "cod_pregunta": 2,
+        "pregunta":"¿Quiénes conforman Hack4u?",
+        "respuesta": "Actualmente el proyecto está siendo llevado a cabo por tres personas, ¡te presentamos sus perfiles a continuación!"
+      }
+    ]
+}

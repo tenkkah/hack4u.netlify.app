@@ -1,0 +1,610 @@
+/* Imports Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif;
+}
+
+body{
+    background-color: #212529;
+}
+
+/*------- NAVBAR -------*/
+.navbar-brand {
+    font-size: 2.7rem;
+    color: #F82668;
+    font-family: 'Anton', sans-serif;
+    text-decoration: none;
+}
+.navbar-brand:hover {
+    color: #F82668;
+    text-decoration: none;
+}
+
+.nav-left {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none; 
+}
+.nav-left:hover {
+    color: #F82668;
+    transition: 0.4s;
+    font-size: 18px;
+}
+
+.nav-item {
+    color: rgb(7, 7, 78);
+    font-weight: 500;
+    padding-right: 45px;
+    padding-left: 20px;
+}
+
+.dropdown-item {
+    color: rgb(10, 10, 94);
+}
+.dropdown-item:hover {
+    color: #F82668;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+.icono-question{
+    margin-right: 10px;
+}
+
+
+
+
+/*------- PRINCIPAL -------*/
+.main {
+    background: url(../images/main6.jpg)no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+}
+.main h1 {
+    font-size: 5rem;
+    font-weight: 800;
+    color: #F82668;
+}
+.main input {
+    border-radius: 60px;
+    height: 71px;
+    width: 70%;
+    border: none;
+    outline: none;
+    padding: 15px;
+}
+
+.home{
+    opacity: 1;
+}
+
+
+
+/*------- CATEGORÍAS -------*/
+.red {
+    color: #F82668;
+}
+
+.tituloCateg {
+    border: 2px solid #F82668; 
+    padding: 10px; 
+    /*border-radius: 20px;*/
+}
+.tituloCateg2 {
+    border: 4px solid rgb(7, 7, 78); 
+    padding: 0.5em 5em; 
+    /*border-radius: 20px;*/
+}
+.contenidoTituloCateg1 {
+    text-align: center;
+    margin-top: 4em;
+    margin-bottom: 2em;
+}
+.contenidoTituloCateg2 {
+    text-align: center;
+    margin-top: 11em;
+    margin-bottom: 2em;
+}
+
+
+.categorias h1 {
+    font-size: 3.5rem;
+    color: #F82668;
+}
+
+.categorias .card:hover {
+    color: #F82668;
+    cursor: pointer;
+    transition: all 0.4s;
+    box-shadow: -1px 4px 27px 12px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 4px 27px 12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 27px 12px rgba(0,0,0,0.75);
+    
+}
+
+
+.tituloEmpleados {
+    border: 2px solid #F82668; 
+    padding: 10px; 
+}
+
+
+
+
+
+/*------- CONÓCENOS (Proceso) -------*/
+.imgProceso1 {
+     height: 100px;
+     width: 100px;
+     background: url(../images/proceso1.jpg)no-repeat;
+     background-position: 50%;
+     border-radius: 50%;
+     background-size: 100% auto;
+}
+
+.about1 h1{
+    font-size: 3.5rem;
+    color: #F82668;
+}
+
+
+.about1 .card {
+    background: whitesmoke;
+    border-radius: 2em;
+}
+.about1 .card:hover {
+    transition: all 0.4s;
+    box-shadow: -1px 4px 27px 12px #F82668;
+    -webkit-box-shadow: -1px 4px 27px 12px #F82668;
+    -moz-box-shadow: -1px 4px 27px 12px #F82668;
+}
+
+.procesoEmpresa{
+    height: 30em;
+}
+
+.proceso {
+    height: 100px;
+    width: 100px;
+    background: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+.proceso1 img {
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+
+.enlaceAzul {
+    color: rgb(7, 7, 78);
+}
+
+
+
+
+/*------- CONÓCENOS (Personal) -------*/
+.personal {
+    background: linear-gradient(rgba(4,11,75,0.71), rgba(4,26,100,0.73)),url(../images/ciberseguridadWallpaper.jpg)no-repeat;
+    background-size: cover;
+    height: 55em;
+    width: 100%;
+    color: white;
+}
+
+.titulo-personal{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.infoPersonal {
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+
+.btnContacto {
+    height: 60px;
+    width: 20%;
+    border: 2px solid #F82668;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+    transition: all 0.4s;
+}
+.btnContacto:hover {
+    background: #F82668;
+    color: white;
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+}
+
+
+
+/*------- OFERTAS -------*/
+.contenidoOfertas img {
+    width: 230px;
+    height: 180px;
+}
+
+.btnInscribirse {
+    height: 3em;
+    width: 5em;
+    border-radius: 10px;
+    border: 2px solid rgb(243, 73, 73);
+    background: rgb(243, 73, 73);
+    color: white;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.btnInscribirse:hover {
+    background: rgb(214, 11, 11);
+    color: white;
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+}
+
+.descripcion {
+    font-size: 14px;
+}
+
+.card {
+    margin: 0.5em 0.4em;
+    background-color: rgb(209, 210, 230);
+}
+
+
+.info {
+    height: 7.5em;
+}
+
+.contenidoOrdenarTrabajos {
+    float: right;
+}
+
+.cardOfertas:hover {
+    box-shadow: -1px 4px 20px 10px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 4px 20px 10px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 4px 20px 10px rgba(0, 0, 0, 0.75);
+}
+
+
+
+/*------- INSCRIPCIONES -------*/
+.btnEliminarOferta {
+    height: 3em;
+    width: 5em;
+    border-radius: 10px;
+    border: 2px solid rgb(243, 73, 73);
+    background: rgb(243, 73, 73);
+    color: white;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.btnEliminarOferta:hover {
+    background: #F82668;
+    color: white;
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+}
+
+
+/*------- CONTACTO -------*/
+/* .header {
+    border: 2px solid rgb(7, 7, 78);
+    color: rgb(7, 7, 78);
+    font-size: 27px;
+    padding: 10px;
+} */
+
+.bigicon {
+    font-size: 35px;
+    color: rgb(7, 7, 78);
+}
+
+.btnEnviar {
+    height: 60px;
+    width: 20%;
+    border: 2px solid rgb(7, 7, 78);
+    border-radius: 20px;
+    background: transparent;
+    color: rgb(7, 7, 78);
+    transition: all 0.4s;
+}
+.btnEnviar:hover {
+    background: rgb(7, 7, 110);
+    color: white;
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+}
+
+#enlaceMandarMail {
+    opacity: 0;
+}
+
+
+
+
+
+/*------- FOOTER -------*/
+.linkCanaveral:hover {
+    cursor: pointer;
+}
+.RRSS a{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+
+
+
+/*Seccion 1 con la foto y con los dos botones*/
+:root {
+    --lightblue: #f6f9fc;
+    --red: #F82668;
+  }
+  
+  a,
+  a:hover {
+    color: inherit;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .bg-lightblue {
+    background: var(--lightblue);
+  }
+  
+  .bg-red {
+    background: var(--red);
+  }
+  
+  .text-red {
+    color: var(--red);
+  }
+  
+  .container-fluid-max {
+    max-width: 1440px;
+  }
+  
+  .cover {
+    background: no-repeat center/cover;
+  }
+  
+  .p-15 {
+    padding: 15px;
+  }
+
+
+
+  /*------LOGIN Y REGISTRO----*/
+.wrapper {
+    max-width: 500px;
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 30px 40px;
+    box-shadow: 5px 5px 20px #F82668;
+}
+
+.h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #F82668;
+    font-style: italic
+}
+
+.h4 {
+    font-family: 'Poppins', sans-serif
+}
+
+.input-field {
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #F82668;
+    color: #F82668
+}
+
+.input-field:hover {
+    color: #F82668;
+    border: 1px solid #F82668;
+}
+
+input {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 100%;
+    padding: 0px 2px;
+    font-family: 'Poppins', sans-serif
+}
+
+a {
+    text-decoration: none;
+    color: #F82668;
+    font-weight: 700
+}
+
+a:hover {
+    text-decoration: none;
+    color: #F82668;
+}
+
+
+.btn.btn-block {
+    border-radius: 20px;
+    background-color: #F82668;
+    color: #fff;
+}
+
+.btn.btn-block:hover {
+    background-color: #F82668;
+}
+
+
+/*---PREGUNTAS FRECUENTES---*/
+.titulo-preguntas_frecuentes{
+    text-align: center;
+    color: #F82668;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.parrafo-preguntas_frecuentes{
+    color: white;
+    margin-left: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*---CONOCENOS---*/
+.titulo-conocenos{
+    text-align: center;
+    color: #F82668;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.parrafo-conocenos{
+    color: white;
+    margin-left: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/*CURSOS*/
+.titulos-cursos{
+    color: #F82668;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tituloCateg2{
+    color: #F82668;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.filtroCursos{
+    width: 400px;
+    padding-bottom: 2em;
+}
+
+.inputFiltrar{
+    margin-bottom: 1em;
+}
+
+#tituloCursosInscritos{
+    text-align: center;
+    color:#dd4b39;
+}
+
+#nombreUsuarioIndex{
+    color:aqua;
+}
+
+/*************************/
+table,
+tr,
+td {
+    border: 1px solid white;
+}
+
+#central,
+#acciones {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.imagenTabla{
+    width: 100px;
+}
+
+
+.error{
+    font-weight: bold;
+    color: red;
+}
+
+.opcionesEmp{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+
+.cajaEdicion{
+    display: flex;
+    justify-content: center;
+    background: #162433;
+    padding: 20px;
+    top: 50%;
+}
+
+
+.cajaEdicion table tr td {
+    padding: 10px;
+}
+
+.cajaEdicion input{
+    color: #fff;
+    background: #162433;
+    border: none;
+    border-bottom: 2px solid #fff;
+}
+
+
+.cajaEdicion input:focus{
+    border-bottom: 3px solid #FF6B6C;
+}
+.cajaEdicion button {
+    margin: 8px;
+}
+
+#editEmp{
+    margin-top: 10px;
+}
+
+.logo-empleados{
+    width: 100px;
+}
+
+.nombreUser{
+    color: white;
+}
+
+.claveUser{
+    color: white;
+}
+
+.emailUser{
+    color: white;
+}
+
+
+
+
+
+

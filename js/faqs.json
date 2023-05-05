@@ -1,0 +1,49 @@
+{
+    "preguntas_frecuentes": [
+        {
+            "cod_pregunta": 1,
+            "pregunta": "¿Por qué no puedo registrarme?, ¿por qué la web me carga lento?, estoy teniendo problemas",
+            "respuesta": "Para garantizar el correcto funcionamiento de la web, recomendamos que desactives el AdBlock o cualquier bloqueador que puedas tener habilitado en tu navegador. De esta forma, dejarás de experimentar posibles problemas al navegar por la academia. Asimismo, recomendamos NO hacer uso del navegador Firefox, hemos visto que este navegador, por circunstancias que aún estamos investigando, puede llegar a ralentizar la navegación y la experiencia por la plataforma. Una alternativa que os recomendamos para garantizar una correcta carga de todos los recursos necesarios es el navegador web Google Chrome. Cabe destacar que actualmente estamos trabajando en la versión adaptada a móvil, por lo que recomendamos que la navegación por la academia se haga desde un ordenador."
+        },
+        {
+            "cod_pregunta": 2,
+            "pregunta": "¿Qué conocimientos previos necesito para apuntarme a los cursos de la academia?",
+            "respuesta": "Ningún conocimiento previo, en la academia te entrenamos desde cero sin importar tu nivel. Disponemos de varios módulos, desde módulos diseñados para perfiles iniciantes hasta módulos diseñados para perfiles intermediarios y avanzados."
+        },
+        {
+            "cod_pregunta": 3,
+            "pregunta": "Una vez pago la suscripción, ¿tengo acceso a todos los cursos de la academia?",
+            "respuesta": "Si, una vez pagada la suscripción, tienes acceso a todos los cursos de la academia el tiempo correspondiente al plan de membresía que hayas pagado (mensual, trimestral, anual)."
+        },
+        {
+            "cod_pregunta": 4,
+            "pregunta": "¿Qué requisitos de Hardware necesito para hacer los cursos de la academia?",
+            "respuesta": "Para hacer los cursos de la academia no se necesita un ordenador de alto coste, recomendamos un portatil con al menos 4GB de RAM y 40 GB de disco para el almacenamiento. Recomendamos también la instalación previa del sistema operativo Parrot o Kali Linux, ya sea en nativo o virtualizando (VMWare o VirtualBox). En caso de virtualizar, recomendamos de igual forma asignar a la máquina virtual 4GB de RAM y un espacio de como mínimo 40GB para el almacenamiento."
+        },
+        {
+            "cod_pregunta": 5,
+            "pregunta": "¿Qué nivel adquiriré una vez me haga todos los módulos de la academia?",
+            "respuesta": "Actimage.pngualmente seguimos trabajando en más módulos para la academia. Nuestra idea con esta academia es que adquieras mucha destreza en el campo, para que los perfiles iniciantes puedan llegar a convertirse en perfiles avanzados, e incluso para que los perfiles avanzados también puedan potenciar sus habilidades."
+        },
+        {
+            "cod_pregunta": 6,
+            "pregunta": "¿Obtendré una certificación final al terminar el curso?",
+            "respuesta": "Si, una vez finalizado un curso se te otorgará un certificado final, esto siempre y cuando hayas superado todas las pruebas con una nota igual o superior al 70%."
+        },
+        {
+            "cod_pregunta": 7,
+            "pregunta": "¿Cada cuánto tiempo irán saliendo nuevos cursos?",
+            "respuesta": "Trabajamos diariamiente para tener lo antes posible nuevos cursos para la academia. Aunque no podemos concretar fechas exactas, por respeto a las membresías de alta fidelidad nos esforzaremos por traer nuevos cursos en la mayor brevedad de los posible."
+        },
+        {
+            "cod_pregunta": 8,
+            "pregunta": "¿Cómo es la dinámica de los cursos?",
+            "respuesta": "Cada curso dispone de múltiples clases grabadas las cuales podrán ser revisadas en todo momento en el índice público de cada curso. A medida que se avanza por las clases de un curso, es necesario terminar la clase actual en la que te sitúes para desbloquear las clases siguientes. De esta forma, garantizamos que el aprendizaje sea lineal y progresivo. A lo largo de un curso te encontrarás con múltiples cuestionarios. Estos cuestionarios están presentados en múltiples formatos (True/False, Múltiple Opción, Rellena el hueco, Arrastra los elementos, etc.), siendo necesario una nota igual o superior al 70% para optar al aprobado y pasar así a la siguiente clase. Cada clase cuenta con descripciones en las que os compartiremos material de refuerzo externo, para que podáis así indagar más en los conceptos que se estén viendo y reforzar el contenido."
+        },
+        {
+            "cod_pregunta": 9,
+            "pregunta": "¿Para ver algunos cursos tengo que hacerme primero otros?",
+            "respuesta": "No, cada curso es independiente. Aunque sí que es cierto que para perfiles iniciantes recomendamos no empezar la casa por el tejado e ir directo a los cursos más complejos, el usuario es al final quien decide el curso al que se desea apuntar. Una vez inscrito al curso deseado, tendrás acceso a todo el contenido de dicho curso."
+        }
+    ]
+}

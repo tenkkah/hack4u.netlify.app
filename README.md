@@ -3,6 +3,8 @@
 Visit here 👉🏻 [Portfolio](https://hack4u.netlify.app "Academy of courses on IT")
 
 ## Screenshots 📸
-![Home](/images/assets/home_sc.png)
-![Knowleadge](/public/assets/img/knowleadge_sc.png)
-![Projects](/public/assets/img/projects_sc.png)
+![Home](/images/assets/home.png)
+![Home](/images/assets/h2.png)
+![Home](/images/assets/h3.png)
+![Home](/images/assets/cursos.png)
+![Home](/images/assets/contact.png)
